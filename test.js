@@ -21,6 +21,5 @@ it('hard test', () => {
 });
 
 it('bad test', () => {
-  assert.equal(1, 1);
   assert.notEqual((sum(null, null)), (sum(null, null)));
 });
