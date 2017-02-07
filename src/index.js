@@ -1,3 +1,3 @@
 module.exports = function sum(a, b) {
-  // implement method
+  return a+b;
 }
